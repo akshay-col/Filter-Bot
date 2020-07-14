@@ -16,7 +16,7 @@ def media_telegraph(bot: Bot, update: Update):
 
 @run_async
 def post_telegraph(bot: Bot, update: Update, args: List[str]):
-    short_name = "Created By @D_ar_k_Angel 😬"
+    short_name = "Created By @Noob_admin"
     msg = update.effective_message # type: Optional[Message]
     telegraph = Telegraph()
     r = telegraph.create_account(short_name=short_name)
@@ -34,10 +34,9 @@ def post_telegraph(bot: Bot, update: Update, args: List[str]):
 
 __help__ = """
 ○ My Name : *Filter Bot*
-○ Creator : [D_ar_k_Angel](http://telegram.dog/D_ar_k_Angel)
-○ Credits : `Everyone in this journey`
+○ Creator : [꧁☬⋆ТᎻᎬ༒ᏦᎥᏁᏳ༒C☢nτrͥ☢lͣlͫer⋆☬꧂](https://t.me/Noob_admin)🔰Credits : `Everyone in this journey`
 ○ Language : Python3
-○ Library : [Pyrogram asyncio 0.16.1](https://docs.pyrogram.org/)
+○ Library : [Pyrogram asyncio 0.16.1](https://.pyrogram.org/)
 ○ Source Code : 👉 [Click Here](https://github.com/DarkAngelTG/Filter-Bot)
 ○ Server : Heroku
 ○ Build Status : V4 `[+0.4]`
