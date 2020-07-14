@@ -34,8 +34,8 @@ def post_telegraph(bot: Bot, update: Update, args: List[str]):
 
 __help__ = """
 ○ My Name : *Filter Bot*
-○ Creator : [꧁☬⋆ТᎻᎬ༒ᏦᎥᏁᏳ༒C☢nτrͥ☢lͣlͫer⋆☬꧂](https://t.me/Noob_admin)🔰Credits : `Everyone in this journey`
-○ Language : Python3
+○ Creator : [꧁☬⋆ТᎻᎬ༒ᏦᎥᏁᏳ༒C☢nτrͥ☢lͣlͫer⋆☬꧂](https://t.me/Noob_admin)
+○ Language : Python3journey`
 ○ Library : [Pyrogram asyncio 0.16.1](https://.pyrogram.org/)
 ○ Source Code : 👉 [Click Here](https://github.com/DarkAngelTG/Filter-Bot)
 ○ Server : Heroku
