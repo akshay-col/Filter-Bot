@@ -19,7 +19,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 *Hello* {},*My Name is* *{}*! 
-*Channel:© @padampid_i*
+
+
+*♨️ GROUP:© @padampid_i*
 
 
 
